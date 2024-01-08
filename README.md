@@ -12,4 +12,9 @@ To Run the project:
 7. For client terminal use command npm start
 8. For server terminal use command nodeman index.js
 9. In the browser window upload the csv file.
-10. Drive inferences from the Area chart plotted. 
+10. Drive inferences from the Area chart plotted.
+
+
+________________________________________________________________________________________ OR _______________________________________________________________________________________________
+
+Use link for live demo : https://data-visulaizer-csv-2.netlify.app/
